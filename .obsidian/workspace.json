@@ -35,6 +35,20 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "86fdc5c1bc35b7a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "074428ca6e72230f",
+            "type": "leaf",
+            "state": {
+              "type": "style-settings",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,15 +187,15 @@
   },
   "active": "ffef6e5ec4acc390",
   "lastOpenFiles": [
-    "apps/portainer.md",
-    "misc/markdown.md",
     "apps/obsidian.md",
+    "apps/portainer.md",
+    "security/ssh.md",
+    "apps/nginx.md",
+    "misc/markdown.md",
     "LICENSE.md",
     "Testing.md",
-    "security/ssh.md",
     "docker/docker.md",
     "docker/docker-compose.md",
-    "docker/kubernetes.md",
-    "security/mail.md"
+    "docker/kubernetes.md"
   ]
 }

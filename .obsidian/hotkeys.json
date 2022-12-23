@@ -1,1 +1,10 @@
-{}
+{
+  "obsidian-minimal-settings:cycle-minimal-table-width": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "="
+    }
+  ]
+}
