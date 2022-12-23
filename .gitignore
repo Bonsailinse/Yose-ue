@@ -1,0 +1,12 @@
+# Exclude workspace
+.obsidian/workspace.json
+
+# Exclude Untitled Notes
+Untitled*
+
+# Exclude "bad" names
+null*
+
+# Exclude OS settings, caches, trash
+.trash/
+.DS_Store

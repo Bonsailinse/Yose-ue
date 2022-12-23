@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "14c75b3d8083a26a",
+        "id": "7538a0a47eb34274",
         "type": "tabs",
         "children": [
           {
-            "id": "ebddd5f2e83170f8",
+            "id": "04aa9d1dc4dddcde",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,9 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13e1202292efd9fb",
+  "active": "04aa9d1dc4dddcde",
   "lastOpenFiles": [
     "security/ssh.md",
+    "123.md",
     "windows/wsl.md",
     "apps/bitwarden.md",
     "security/mail.md",
@@ -148,7 +149,6 @@
     "misc/markdown.md",
     "unix/git.md",
     "vscode/configs.md",
-    "vscode/addons.md",
-    "vscode/shortcuts.md"
+    "vscode/addons.md"
   ]
 }
