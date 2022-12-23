@@ -24,3 +24,7 @@ Host *
 ```
 
 Connect to a host (like *dev* , eg.) with `ssh dev`.
+
+[[gpg]]
+
+[Google](https://google.com)
