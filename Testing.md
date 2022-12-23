@@ -1,4 +1,10 @@
-# Lists
+---
+
+---
+
+https://minimal.guide/
+
+## Lists
 
 - [ ] to-do
 - [/] incomplete
@@ -22,3 +28,27 @@
 - [w] win
 - [u] up
 - [d] down
+
+## Progress bars
+
+<progress value="0" max="100"></progress>
+<progress value="10" max="100"></progress>
+<progress value="20" max="100"></progress>
+<progress value="30" max="100"></progress>
+<progress value="40" max="100"></progress>
+<progress value="50" max="100"></progress>
+<progress value="60" max="100"></progress>
+<progress value="70" max="100"></progress>
+<progress value="80" max="100"></progress>
+<progress value="90" max="100"></progress>
+<progress value="100" max="100"></progress>
+
+## Tables
+
+| ID  | Name | Description |
+| --- | ---- |:-----------:|
+| 1   | A    |    fwef     |
+| 2   | B    |    fwsd     |
+| 3   | C    |    gfsh     |
+| 4   | D    |     hhh     |
+| 5   | E    |    jejy     |
