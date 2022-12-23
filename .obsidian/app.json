@@ -4,5 +4,11 @@
   "showFrontmatter": false,
   "showLineNumber": false,
   "spellcheck": true,
-  "trashOption": "local"
+  "trashOption": "local",
+  "userIgnoreFilters": [
+    "LICENSE",
+    "README",
+    "_assets/",
+    "templates/"
+  ]
 }

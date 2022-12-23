@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7538a0a47eb34274",
+        "id": "ba30de6460f5feb8",
         "type": "tabs",
         "children": [
           {
-            "id": "04aa9d1dc4dddcde",
+            "id": "bc17c2872e2b53ae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "security/ssh.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "security/ssh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "security/ssh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "security/ssh.md"
+              }
             }
           }
         ]
@@ -133,22 +142,23 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "04aa9d1dc4dddcde",
+  "active": "bc17c2872e2b53ae",
   "lastOpenFiles": [
+    "docker/docker.md",
+    "docker/docker-compose.md",
+    "docker/kubernetes.md",
     "security/ssh.md",
-    "123.md",
-    "windows/wsl.md",
-    "apps/bitwarden.md",
     "security/mail.md",
     "security/gpg.md",
-    "misc/markdown.md",
-    "unix/git.md",
-    "vscode/configs.md",
-    "vscode/addons.md"
+    "LICENSE.md",
+    "123.md",
+    "windows/wsl.md",
+    "apps/bitwarden.md"
   ]
 }
