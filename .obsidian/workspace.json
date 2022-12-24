@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apps/wireguard.md",
+                "file": "apps/teleport.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apps/wireguard.md",
+                "file": "apps/teleport.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apps/wireguard.md",
+                "file": "apps/teleport.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apps/wireguard.md"
+                "file": "apps/teleport.md"
               }
             }
           },
@@ -186,8 +186,8 @@
   },
   "active": "e6053e47772a0799",
   "lastOpenFiles": [
-    "apps/tailscale.md",
     "apps/wireguard.md",
+    "apps/tailscale.md",
     "apps/obsidian.md",
     "apps/portainer.md",
     "security/ssh.md",
