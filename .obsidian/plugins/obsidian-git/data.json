@@ -2,7 +2,7 @@
   "commitMessage": "Automatic commit: {{date}}",
   "autoCommitMessage": "Automatic commit: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 30,
+  "autoSaveInterval": 10,
   "autoPushInterval": 0,
   "autoPullInterval": 30,
   "autoPullOnBoot": false,
