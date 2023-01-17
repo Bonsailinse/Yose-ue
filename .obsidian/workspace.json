@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "security/gpg.md",
+                "file": "Testing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "security/gpg.md",
+                "file": "Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "security/gpg.md",
+                "file": "Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "security/gpg.md"
+                "file": "Testing.md"
               }
             }
           },
@@ -161,15 +161,15 @@
   },
   "active": "36b6a6ef6ffd1132",
   "lastOpenFiles": [
+    "README.md",
+    "Testing.md",
+    "security/gpg.md",
     "security/ssh.md",
     "apps/wireguard.md",
     "apps/teleport.md",
     "apps/tailscale.md",
     "apps/obsidian.md",
     "apps/portainer.md",
-    "apps/nginx.md",
-    "misc/markdown.md",
-    "LICENSE.md",
-    "Testing.md"
+    "apps/nginx.md"
   ]
 }
